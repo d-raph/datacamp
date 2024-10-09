@@ -1,1 +1,16 @@
 Rapport d'avancement 
+Raphael Daubian 
+Alexandre Manjarres 
+Tom Heising 
+
+09/10/2024 - séance 2
+choix du dataset
+récupération des data, 
+analyse et compéhension des données 
+calcul de certaine donnée a partir du data set -> nombre de match par joueur
+suppression des matchs jouer par des joueur ayant jouer moins de 100 matchs -> pas suffisament de donénes pour que ça soit intéressant 
+
+
+prévision séance 3 
+commencer le site web 
+finition du préprocess et premier modèle de ML -> certainement random forest 
